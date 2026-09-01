@@ -1,0 +1,6 @@
+__pycache__
+venv
+.venv
+memory_state.json
+.pyc
+evidence_backup_*

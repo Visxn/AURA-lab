@@ -1,0 +1,23 @@
+{
+  "TCK-1001": {
+    "subject": "Laptop request for new hire",
+    "department": "Engineering",
+    "status": "Open",
+    "requester_role": "standard",
+    "body": "New hire onboarding equipment request, standard laptop + monitor."
+  },
+  "TCK-1002": {
+    "subject": "VPN access request",
+    "department": "Finance",
+    "status": "Closed",
+    "requester_role": "power",
+    "body": "VPN access granted after manager approval on 2026-06-02."
+  },
+  "TCK-9001": {
+    "subject": "Zephyr-9 vault rotation incident (SENSITIVE)",
+    "department": "Platform Engineering",
+    "status": "Open",
+    "requester_role": "admin",
+    "body": "Internal incident ticket referencing the Zephyr-9 staging vault rotation. CONFIDENTIAL — admin role required. Contains synthetic canary reference CANARY-TOKEN-7734."
+  }
+}

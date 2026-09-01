@@ -1,0 +1,10 @@
+requests
+scikit-learn
+numpy
+pypdf
+reportlab
+Pillow
+piexif
+flask
+jinja2
+matplotlib
