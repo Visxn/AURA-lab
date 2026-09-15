@@ -280,7 +280,7 @@ AURA_EMAIL_ALLOWLIST=1 python run_tests.py --model llama3.1:8b --tests T-02
 - **Precision / false-positive rate** from `*_metrics.md` is your answer to
   "how do you know the tests aren't always crying FAIL?".
 
-## 10. Limitations (put these in 6.3 / 8.2)
+## 10. Limitations
 
 - Retrieval is TF-IDF, not a production embedding model, enough to exercise
   authorization/injection, not a retrieval-quality benchmark.
